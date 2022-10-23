@@ -1,0 +1,24 @@
+/* css for leaderboard table */
+
+#leaderboard-table {
+  border-collapse: collapse;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #393939;
+}
+
+#leaderboard-table td {
+  width: 20vw;
+  border: 2px solid #a09e9a;
+  padding: 0.5rem 0;
+  color: white;
+}
+
+#title-row {
+  background-color: #f1f1f1;
+}
+
+#title-row td {
+  color: #393939;
+  /* color: black; */
+}
